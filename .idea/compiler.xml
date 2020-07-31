@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pojo" />
+        <module name="item-web" />
+        <module name="shopping-auth-service" />
+        <module name="message-service" />
+        <module name="user-security" />
+        <module name="sellergoods-service" />
+        <module name="rabbitmq-demo" />
+        <module name="fastdfs-service" />
+        <module name="redis-service" />
+        <module name="register-center02" />
+        <module name="shopping-auth-common" />
+        <module name="manager-web" />
+        <module name="elasticsearch-service" />
+        <module name="commons" />
+        <module name="shop-web" />
+        <module name="zuul-service" />
+        <module name="business-service" />
+        <module name="register-center01" />
+        <module name="content-service" />
+        <module name="portal-web" />
+        <module name="website-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="business-service" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="content-service" target="1.8" />
+      <module name="elasticsearch-service" target="1.8" />
+      <module name="fastdfs-service" target="1.8" />
+      <module name="item-web" target="1.8" />
+      <module name="manager-web" target="1.8" />
+      <module name="message-service" target="1.8" />
+      <module name="pojo" target="1.8" />
+      <module name="portal-web" target="1.8" />
+      <module name="rabbitmq-demo" target="1.8" />
+      <module name="redis-service" target="1.8" />
+      <module name="register-center" target="1.8" />
+      <module name="register-center01" target="1.8" />
+      <module name="register-center02" target="1.8" />
+      <module name="sellergoods-service" target="1.8" />
+      <module name="shop-web" target="1.8" />
+      <module name="shopping" target="1.8" />
+      <module name="shopping-auth" target="1.8" />
+      <module name="shopping-auth-common" target="1.8" />
+      <module name="shopping-auth-service" target="1.8" />
+      <module name="user-security" target="1.8" />
+      <module name="website-service" target="1.8" />
+      <module name="zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="business-service" options="-parameters" />
+      <module name="commons" options="-parameters" />
+      <module name="content-service" options="-parameters" />
+      <module name="elasticsearch-service" options="-parameters" />
+      <module name="fastdfs-service" options="-parameters" />
+      <module name="item-web" options="-parameters" />
+      <module name="manager-web" options="-parameters" />
+      <module name="message-service" options="-parameters" />
+      <module name="pojo" options="-parameters" />
+      <module name="portal-web" options="-parameters" />
+      <module name="rabbitmq-demo" options="-parameters" />
+      <module name="redis-service" options="-parameters" />
+      <module name="register-center" options="-parameters" />
+      <module name="register-center01" options="-parameters" />
+      <module name="register-center02" options="-parameters" />
+      <module name="sellergoods-service" options="-parameters" />
+      <module name="shop-web" options="-parameters" />
+      <module name="shopping" options="-parameters" />
+      <module name="shopping-auth" options="-parameters" />
+      <module name="shopping-auth-common" options="-parameters" />
+      <module name="shopping-auth-service" options="-parameters" />
+      <module name="user-security" options="-parameters" />
+      <module name="website-service" options="-parameters" />
+      <module name="zuul-service" options="-parameters" />
+    </option>
+  </component>
+</project>

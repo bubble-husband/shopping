@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/register-center/pom.xml" />
+        <option value="$PROJECT_DIR$/register-center01/pom.xml" />
+        <option value="$PROJECT_DIR$/register-center02/pom.xml" />
+        <option value="$PROJECT_DIR$/pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/commons/pom.xml" />
+        <option value="$PROJECT_DIR$/sellergoods-service/pom.xml" />
+        <option value="$PROJECT_DIR$/manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shop-web/pom.xml" />
+        <option value="$PROJECT_DIR$/business-service/pom.xml" />
+        <option value="$PROJECT_DIR$/user-security/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs-service/pom.xml" />
+        <option value="$PROJECT_DIR$/portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-service/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch-service/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/item-web/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-auth/shopping-auth-common/pom.xml" />
+        <option value="$PROJECT_DIR$/shopping-auth/shopping-auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/message-service/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/register-center/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

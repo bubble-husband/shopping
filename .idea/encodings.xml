@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/business-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/content-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/content-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elasticsearch-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fastdfs-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/item-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/message-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pojo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-web/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmq-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/redis-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register-center01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/register-center02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sellergoods-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sellergoods-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shop-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-auth/shopping-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-auth/shopping-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-auth/shopping-auth-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shopping-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
